@@ -26,6 +26,7 @@ class Tok(Enum):
     # Punctuations
     DOT = "."
     COMMA = ","
+    SEMI = ";"
     LPAR = "("
     RPAR = ")"
     LSQB = "["
